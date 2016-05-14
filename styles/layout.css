@@ -1,0 +1,43 @@
+body{
+	background-image: url(../images/286237.jpg);
+	background-size:cover; 
+    background-position:center center; 
+    background-attachment: fixed;
+}
+a{
+	outline: none;
+}
+#main{
+	position: relative;
+}
+.box{
+	padding: 15px 0 0 15px;
+	float: left;
+	text-align: center;
+	width: 275px;
+	height: auto;
+
+}
+.pic{
+	padding: 10px;
+	border-radius:5px;
+	background-color:rgba(156,217,249,0.1);
+	box-shadow: 0 0 5px #13141a;
+	color: #8c929e;
+	font-size: 12px;
+	word-wrap: break-word;
+
+	
+}
+.pic img{
+	width: 250px;
+	height: auto;
+
+}
+.pic p{
+	padding: 5px 0 0 0;
+	line-height: 22px;
+}
+.pic a{
+	color: #8c929e;
+}
